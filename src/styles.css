@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 2em 5em;
+  background-color: aliceblue;
+}
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: darkslategray;
+}
+
+.counter textarea {
+  font-size: 1.2rem;
+  color: white;
+  background-color: darkslategrey;
+}
